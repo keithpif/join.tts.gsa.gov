@@ -60,8 +60,8 @@ government to tackle some of our nation’s biggest challenges and deliver bette
 are embedded within agencies as entrepreneurs-in-residence for 12-24 month engagements working on mission critical problems,
 shaping smarter policy and/or delivering on technology.
 
-Since the program was launched in 2012 by former U.S. CTO Todd Park, [120 Fellows](https://presidentialinnovationfellows.gov/fellows/)
-have worked with over [30 agencies](https://presidentialinnovationfellows.gov/agencies/).
+Since the program was launched in 2012 by former U.S. CTO Todd Park, [135 Fellows](https://presidentialinnovationfellows.gov/fellows/)
+have worked with over [35 agencies](https://presidentialinnovationfellows.gov/agencies/).
 These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome
 Project. Past fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer
 clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk
@@ -163,7 +163,7 @@ Experience applying technology innovation craft to the design and development of
 This experience must include **ONE** of the following:
 
 - Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side
-languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, Javascript) and database
+languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database
 and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
 - Advising organizations on developing and delivering digital products or services, contributing to the development or the
 evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code
@@ -205,8 +205,8 @@ government to tackle some of our nation’s biggest challenges and deliver bette
 are embedded within agencies as entrepreneurs-in-residence for 12-24 month engagements working on mission critical problems,
 shaping smarter policy and/or delivering on technology.
 
-Since the program was launched in 2012 by former U.S. CTO Todd Park, [120 Fellows](https://presidentialinnovationfellows.gov/fellows/)
-have worked with over [30 agencies](https://presidentialinnovationfellows.gov/agencies/).
+Since the program was launched in 2012 by former U.S. CTO Todd Park, [135 Fellows](https://presidentialinnovationfellows.gov/fellows/)
+have worked with over [35 agencies](https://presidentialinnovationfellows.gov/agencies/).
 These Fellows have included the Lead Developer on Google Maps, Former CEO of Symantec and Co-Founder of the Earth Genome
 Project. Past fellows’ projects have focused on improving care and access to benefits for our veterans, re-imagining cancer
 clinical trials to increase awareness and access for patients, defining an ecosystem to help the private sector manage risk
@@ -437,7 +437,7 @@ Experience applying technology innovation craft to the design and development of
 This experience must include **ONE** of the following:
 
 - Developing digital applications across the full stack (i.e. server side, client side & databases) using server-side
-languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, Javascript) and database
+languages (e.g Java, .NET, Ruby on Rails, Python, Go, Node.js), client-side languages (e.g HTML, CSS, Javascript) and database
 and other persistence layers  (e.g. PostgreSQL, mySQL, Oracle, noSQL, MongoDB)
 - Advising organizations on developing and delivering digital products or services, contributing to the development or the
 evolution of the organization’s technical strategy, and leading technical teams (i.e. providing mentorship, reviewing code
